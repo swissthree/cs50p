@@ -22,6 +22,4 @@ def checkMealTime(hour):
         print("Dinner time!") 
     else:
         print("Not meal time!")
-#loop
-if __name__ == "__main__":
-    main()
+main()
